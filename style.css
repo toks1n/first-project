@@ -1,6 +1,18 @@
 body {
     background-color: black;
 }
-h1 {
+
+.header {
     color: bisque;
+    font-weight: bold;
+    text-decoration: underline;
 }
+
+.text {
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    color: bisque;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+
